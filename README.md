@@ -1,2 +1,2 @@
 # Faktoriyel
-Girilen sayının faktöriyelini alan java kodu. Diziler kullanılarak yapılmıştır
+Girilen sayının faktöriyelini alan java kodu. Fonksiyon kullanılarak yapılmıştır
